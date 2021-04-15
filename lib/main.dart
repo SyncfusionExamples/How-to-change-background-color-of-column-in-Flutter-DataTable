@@ -23,11 +23,11 @@ class ChangeRowBackgroundColorSample extends StatefulWidget {
   ChangeRowBackgroundColorSample({Key? key}) : super(key: key);
 
   @override
-  _ChangeRowBackgroundColorSampleState createState() =>
-      _ChangeRowBackgroundColorSampleState();
+  _ChangeColumnBackgroundColorSampleState createState() =>
+      _ChangeColumnBackgroundColorSampleState();
 }
 
-class _ChangeRowBackgroundColorSampleState
+class _ChangeColumnBackgroundColorSampleState
     extends State<ChangeRowBackgroundColorSample> {
   List<Employee> employees = <Employee>[];
   late EmployeeDataSource employeeDataSource;
