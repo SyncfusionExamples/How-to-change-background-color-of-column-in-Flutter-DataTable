@@ -104,3 +104,6 @@ Initialize the SfDataGrid with all the required properties
   }
 
 ```
+<img alt="Column background color "  src="https://www.syncfusion.com/uploads/user/kb/flut/flut-4295/flut-4295_img1.jpeg" width="300" height="400" />
+ 
+**[View document in Syncfusion Flutter Knowledge base](https://www.syncfusion.com/kb/12521/how-to-change-background-color-of-column-in-flutter-datatable-sfdatagrid)**
